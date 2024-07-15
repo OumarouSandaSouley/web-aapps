@@ -48,7 +48,7 @@ Pour visualiser ce site web localement, suivez ces étapes :
 1. Clonez le repository :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-projet.git
+   git clone https://github.com/OumarouSandaSouley/web-aapps.git
    ```
 
 2. Naviguez jusqu'au répertoire du projet :
